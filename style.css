@@ -83,17 +83,12 @@ nav li:hover {
   justify-content: space-around;
   align-items: center;
 
-  .hero_image animate__animated animate__bounceInLeft {
-    height:42px;
-    weight:32px;
+  
 }
 .hero_content {
   display: grid;
   place-items: center;
 
-  height:42px;
-    weight:32px;
-  
 }
 
 #hero h1 {
@@ -283,4 +278,9 @@ footer {
     height: 50vh;
   }
 }
-  
+#hero-image {
+  width: 300px;
+  height: 200px;
+}
+
+
