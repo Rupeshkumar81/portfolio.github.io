@@ -90,6 +90,10 @@ nav li:hover {
 .hero_content {
   display: grid;
   place-items: center;
+
+  height:42px;
+    weight:32px;
+  
 }
 
 #hero h1 {
