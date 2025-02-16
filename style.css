@@ -278,9 +278,11 @@ footer {
     height: 50vh;
   }
 }
-#hero-image {
-  width: 30px;
-  height: 20px;
+.hero-img {
+  width: 300px;  /* Set custom width */
+  height: auto;  /* Maintain aspect ratio */
+  display: block; /* Avoid extra spacing */
+  margin: 0 auto; /* Center the image */
 }
 
 
