@@ -278,8 +278,8 @@ footer {
     height: 50vh;
   }
 #hero-image {
-    width: 400px; /* Adjust width as needed */
-    height: 300px; /* Adjust height as needed */
+    width: 40px; /* Adjust width as needed */
+    height: 30px; /* Adjust height as needed */
     object-fit: cover; /* Ensures the image scales properly */
 }
 
