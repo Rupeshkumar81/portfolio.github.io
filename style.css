@@ -279,10 +279,8 @@ footer {
   }
 }
 .hero-img {
-  width: 150px; /* Adjust size manually */
-  height: auto; /* Maintain aspect ratio */
-  display: block;
-  margin: 0 auto; /* Center the image */
+  width: 200px; /* Increase the width */
+  height: 200px; /* Set height for consistency */
+  object-fit: cover; /* Ensure it fills the space */
 }
-
 
