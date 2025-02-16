@@ -13,4 +13,3 @@
 - Project 9 - Blog Wesbite
 - Project 10 - Portfolio Website
 
-#### All Image Assets and Icons will Provided in Video Description
